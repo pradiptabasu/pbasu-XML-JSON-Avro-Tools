@@ -17,3 +17,6 @@
 # AVRO Schema to JSON Schema conversion
 * https://json-schema-validator.herokuapp.com/avro.jsp
 * https://github.com/allegro/json-avro-converter
+
+# XPATH
+* https://xmltoolbox.appspot.com/xpath_generator.html
